@@ -33,7 +33,10 @@ p  {
 
 
 }
-#text-intro 
+#text-intro {
+	background-color: grey;
+	color: red;
+}
 
 
 .album-art {
