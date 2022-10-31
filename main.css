@@ -57,7 +57,11 @@ p  {
 	border-color: red;
 }
 
-
+ .about-photo {
+	border-style: solid;
+	 border: 1px;
+	 border-color: red;
+}
 
 
 .album-art {
