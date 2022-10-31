@@ -50,6 +50,7 @@ p  {
 	background-color: black;
 	border-style: solid;
 	border-width: 1px;
+	border-spacing: 5px;
 	padding-top: 5px;
 	padding-right: 3px;
 	padding-bottom: 5px;
@@ -57,16 +58,8 @@ p  {
 	border-color: red;
 }
 
- .about-photo {
-	border-style: solid;
-	 border: 1px;
-	 border-color: red;
-}
 
-<<<<<<< HEAD
 
-=======
->>>>>>> e1a9816a7b8f6647f03d48bab6f2367a9f93409c
 .album-art {
 
 }
@@ -88,17 +81,27 @@ p  {
 }
 
 #about-photo {
+	background-image: url(images/spinal-tap.jpg);
+	background-repeat: no-repeat, no-repeat;
+	border-style: solid;
+	border: 1px;
+	border-color: red;
 
 }
+
 
 #copyright {
 
 }
 
 #section-about, #section-discography, #section-equipment {
+	border-style: solid;
+	border-width: 1px;
+	border-spacing: 20px;
+	padding-top: 5px;
+	padding-right: 3px;
+	padding-bottom: 5px;
+	padding-left: 3px;
+	border-color: red;
 
-}
-
-#text-intro {
-	
 }
