@@ -46,6 +46,19 @@ p  {
 	border-color: red;
 }
 
+#section-about {
+	background-color: black;
+	border-style: solid;
+	border-width: 1px;
+	padding-top: 5px;
+	padding-right: 3px;
+	padding-bottom: 5px;
+	padding-left: 3px;
+	border-color: red;
+}
+
+
+
 
 .album-art {
 
