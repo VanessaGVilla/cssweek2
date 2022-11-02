@@ -81,12 +81,11 @@ img {
 }
 
 #about-photo {
-	background-image: url(images/spinal-tap.jpg);
-	background-repeat: no-repeat, no-repeat;
-	border-style: solid;
-	border: 1px;
-	border-color: red;
-
+	border: double red;
+	margin-top: 1em;
+	margin-right: 1em;
+	padding: 1 em;
+	width: 240px;
 }
 
 
@@ -97,6 +96,10 @@ img {
 
 #section-about, #section-discography, #section-equipment {
 	border: double red;
+	padding: 1em;
+	margin-left: 1em;
 	margin bottom: 1em;
+	
+	
 
 }
